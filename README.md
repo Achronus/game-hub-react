@@ -1,1 +1,2 @@
-# game-hub-react
+# React Game Hub Project
+
